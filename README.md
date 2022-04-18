@@ -1,4 +1,12 @@
-# Deno
+# Beno
+
+# ! ATTENTION !
+This is not Deno, but Beno. <br>
+The mission of Beno is to be a compatible alternative for Deno built on top of QuickJS. <br>
+This objective will be release with Beno Stable. (After that version the numeration will return the normal Deno version numbers) <br>
+At the moment the README is still the old one, but the Documentation and the Standard Libraries will remain the same. <br> <br>
+
+
 
 [![Build Status - Cirrus][]][Build status] [![Twitter handle][]][Twitter badge]
 [![Discord Chat](https://img.shields.io/discord/684898665143206084?logo=discord&style=social)](https://discord.gg/deno)
